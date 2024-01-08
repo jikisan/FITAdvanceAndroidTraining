@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Day1OwnAPI</string>
+    <string name="api">http://10.25.216.36/android_training</string>
+</resources>
